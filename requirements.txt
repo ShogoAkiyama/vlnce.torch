@@ -1,0 +1,6 @@
+torch
+tensorboard
+
+lmdb
+ifcfg
+webdataset==0.1.40
